@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>playstationvsxbox</title>
+</head>
+<body>
+  <h1>
+Playstation vs Xbox
+  </h1>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="fr">
+
+<tête>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=largeur-de-l'appareil, échelle-initiale=1.0">
+    <title>Xbox contre PlayStation</title>
+    <link rel="stylesheet" href="styles.css">
+</tête>
+
+<corps>
+    <en-tête>
+        <h1>Bienvenue sur Xbox vs PlayStation</h1>
+    </header>
+
+    <principal>
+        <!-- Présentation de la section -->
+        <section>
+            <h2>Introduction</h2>
+            <p>Bienvenue sur notre site dédié à la guerre des consoles entre Xbox et PlayStation. Découvrez les dernières nouvelles, comparaisons et participez aux discussions !</p>
+        </section>
+
+        <!-- Section Comparaison des Caractéristiques Techniques -->
+        <section>
+            <h2>Caractéristiques Techniques</h2>
+            <tableau>
+                <tête>
+                    <tr>
+                        <th>Caractéristique</th>
+                        Xbox
+                        <th>PlayStation</th>
+                    </tr>
+                </thead>
+                <corps>
+                    <tr>
+                        <td>Processeur</td>
+                        <td>AMD Zen 2 à 8 cœurs</td>
+                        <td>AMD Zen 2 à 8 cœurs</td>
+                    </tr>
+                    <tr>
+                        <td>GPU</td>
+                        <td>12 TFLOP, 52 CU à 1,825 GHz</td>
+                        <td>10,28 TFLOP, 36 CU à 2,23 GHz</td>
+                    </tr>
+                    <!-- Ajouter d'autres comparaisons ici -->
+                </tbody>
+            </table>
+        </section>
+
+        <!-- Section Origine de la Rivalité -->
+        <section>
+            <h2>Origine de la Rivalité</h2>
+            <p>La rivalité entre <strong>PlayStation</strong> et <strong>Xbox</strong> est l'une des plus importantes dans l'industrie des jeux vidéo. Elle a commencé avec le lancement de la première Xbox par Microsoft en 2001, venant concurrencer Sony et sa célèbre PlayStation 2.</p>
+        </section>
+
+        <!-- Section Générations de Consoles -->
+        <section>
+            <h2>Principales Générations de Consoles</h2>
+
+            <h3>1. PlayStation 2 contre Xbox (2001-2006)</h3>
+            <p>La <strong>PlayStation 2</strong> de Sony est devenue la console la plus vendue de tous les temps, tandis que la première <strong>Xbox</strong> de Microsoft a introduit des fonctionnalités comme le jeu en ligne avec Xbox Live.</p>
+
+            <h3>2. PlayStation 3 contre Xbox 360 (2005-2013)</h3>
+            <p>La génération suivante a vu la <strong>PlayStation 3</strong> et la <strong>Xbox 360</strong> s'affronter, la Xbox prenant une avance grâce à son prix et à ses exclusivités comme <em>Halo 3</em> et <em>Gears of War</em>.</p>
+
+            <h3>3. PlayStation 4 contre Xbox One (2013-2020)</h3>
+            <p>La <strong>PS4</strong> a dominé cette génération avec des exclusivités de grande qualité comme <em>The Last of Us Part II</em> et <em>God of War</em>, tandis que la <strong>Xbox One</strong> a souffert d'un mauvais départ en raison de stratégies impopulaires.</p>
+
+            <h3>4. PlayStation 5 contre Xbox Series X/S (2020-20??)</h3>
+            <p>La guerre actuelle oppose la <strong>PS5</strong> avec son SSD ultra-rapide et ses exclusivités à la <strong>Xbox Series X/S</strong>, Microsoft misant sur le <strong>Game Pass</strong> pour attirer les joueurs avec une grande bibliothèque de jeux.</p>
+        </section>
+
+        <!-- Section Jeux Exclusifs -->
+        <section>
+            <h2>Jeux Exclusifs</h2>
+            <p>Un des points clés de cette guerre est la bataille des jeux exclusifs :</p>
+            <ul>
+                <li><strong>PlayStation</strong> : <em>God of War</em>, <em>The Last of Us</em>, <em>Spider-Man</em>.</li>
+                <li><strong>Xbox</strong> : Halo, Gears of War, Forza.</li>
+            </ul>
+        </section>
+
+        <!-- Section Services et Abonnements -->
+        <section>
+            <h2>Services et Abonnements</h2>
+            <p>Les deux géants proposent des services d'abonnement pour enrichir l'expérience des joueurs :</p>
+            <ul>
+                <li><strong>PlayStation Plus</strong> : Service permettant de jouer en ligne et de télécharger des jeux gratuits chaque mois.</li>
+                <li><strong>Xbox Game Pass</strong> : Un abonnement révolutionnaire offrant un accès à une grande bibliothèque de jeux, et comprenant les nouveaux titres dès leur sortie.</li>
+            </ul>
+        </section>
+
+        <!-- Section Stratégies Commerciales -->
+        <section>
+            <h2>Stratégies Commerciales</h2>
+            <p>Sony et Microsoft adoptent des approches différentes :</p>
+            <ul>
+                <li><strong>Sony</strong> : Mise sur les exclusivités de haute qualité et la vente de consoles.</li>
+                <li><strong>Microsoft</strong> : Stratégie axée sur les services avec le <strong>Game Pass</strong> et l'acquisition de studios comme Bethesda.</li>
+            </ul>
+        </section>
+
+        <!-- Section L'Avenir -->
+        <section>
+            <h2>L'Avenir</h2>
+            <p>Avec l'essor du <strong>cloud gaming</strong>, le paysage de la guerre des consoles évolue. Microsoft explore des solutions comme le <strong>Xbox Cloud Gaming</strong> tandis que Sony développe <strong>PlayStation Now</strong> pour rivaliser dans ce domaine.</p>
+        </section>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stockage et Suppression de Messages Sécurisé</title>
+    <style>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stockage et Suppression de Messages Sécurisé</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        .message-list {
+            margin-top: 20px;
+            border: 1px solid #ccc;
+            padding: 10px;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .message-item {
+            border-bottom: 1px solid #ddd;
+            padding: 5px 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .message-item:last-child {
+            border-bottom: none;
+        }
+        .delete-btn {
+            background-color: red;
+            color: white;
+            border: none;
+            padding: 5px;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+        form {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        form input, form textarea, form button {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+        form button {
+            background-color: #28a745;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Participez à la discussion</h1>
+
+    <!-- Formulaire de soumission -->
+    <form id="messageForm">
+        <label for="nom">Nom :</label>
+        <input type="text" id="nom" name="nom" required placeholder="Votre nom">
+
+        <label for="message">Message :</label>
+        <textarea id="message" name="message" rows="4" required placeholder="Votre message"></textarea>
+
+        <label for="password">Mot de passe :</label>
+        <input type="password" id="password" name="password" required placeholder="Mot de passe pour la suppression">
+
+        <button type="submit">Envoyer</button>
+    </form>
+
+    <!-- Section des messages affichés -->
+    <div class="message-list" id="messageList">
+        <h2>Messages envoyés :</h2>
+    </div>
+
+    <script>
+        // Définir le mot de passe du modérateur
+        const MODERATOR_PASSWORD = "JO2024";
+
+        // Fonction pour récupérer les messages depuis le localStorage
+        function getMessages() {
+            return JSON.parse(localStorage.getItem('messages')) || [];
+        }
+
+        // Fonction pour afficher les messages stockés
+        function displayMessages() {
+            const messages = getMessages();
+            const messageList = document.getElementById('messageList');
+
+            // Efface les anciens messages affichés
+            messageList.innerHTML = '<h2>Messages envoyés :</h2>';
+
+            // Ajoute chaque message avec un bouton de suppression
+            messages.forEach((message, index) => {
+                const messageItem = document.createElement('div');
+                messageItem.classList.add('message-item');
+                messageItem.innerHTML = `
+                    <span><strong>${message.nom} :</strong> ${message.message}</span>
+                    <button class="delete-btn" onclick="promptDeleteMessage(${index})">Supprimer</button>
+                `;
+                messageList.appendChild(messageItem);
+            });
+        }
+
+        // Fonction pour sauvegarder un nouveau message dans le localStorage
+        function saveMessage(nom, message, password) {
+            const messages = getMessages();
+            messages.push({ nom: nom, message: message, password: password });
+            localStorage.setItem('messages', JSON.stringify(messages));
+        }
+
+        // Fonction pour demander le mot de passe avant de supprimer
+        function promptDeleteMessage(index) {
+            const passwordInput = prompt("Entrez votre mot de passe ou le mot de passe du modérateur pour supprimer ce message :");
+            if (passwordInput !== null) {
+                deleteMessage(index, passwordInput);
+            }
+        }
+
+        // Fonction pour supprimer un message après vérification du mot de passe ou du mot de passe du modérateur
+        function deleteMessage(index, passwordInput) {
+            const messages = getMessages();
+            if (messages[index].password === passwordInput || passwordInput === MODERATOR_PASSWORD) {
+                messages.splice(index, 1); // Supprime le message à l'index donné
+                localStorage.setItem('messages', JSON.stringify(messages)); // Met à jour le stockage
+                displayMessages(); // Met à jour l'affichage
+            } else {
+                alert("Mot de passe incorrect !");
+            }
+        }
+
+        // Gérer l'événement de soumission du formulaire
+        document.getElementById('messageForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+
+            // Récupérer les données du formulaire
+            const nom = document.getElementById('nom').value;
+            const message = document.getElementById('message').value;
+            const password = document.getElementById('password').value;
+
+            // Sauvegarder le message
+            saveMessage(nom, message, password);
+
+            // Afficher les messages mis à jour
+            displayMessages();
+
+            // Réinitialiser le formulaire
+            document.getElementById('messageForm').reset();
+        });
+
+        // Afficher les messages lors du chargement de la page
+        displayMessages();
+    </script>
+
+</body>
+</html>
